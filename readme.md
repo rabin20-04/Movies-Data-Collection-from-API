@@ -29,5 +29,5 @@ To clone this repository to your local machine and start working with the projec
    Open your terminal (or Git Bash) and run the following command:
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/rabin20-04/Movies-Data-Collection-from-API.git
    ```
