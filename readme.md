@@ -7,7 +7,7 @@ This project retrieves and processes data from the [The Movie Database (TMDb) AP
 
  ## Description
 
-The script makes requests to the TMDb API to fetch details of popular movies. It retrieves data for 500 movies across multiple pages, extracting the following fields:
+The script makes requests to the TMDb API to fetch details of popular movies. It retrieves data for **10k** movies across multiple pages, extracting the following fields:
 
 - **Title**: The name of the movie.
 - **Release Date**: The date the movie was released.
